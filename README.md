@@ -1,2 +1,3 @@
 # mini_diary
-my mini project develop diary
+My mini project develop diary with React
+
